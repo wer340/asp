@@ -19,7 +19,20 @@ then in aug 0f 2018 MS released the next version of .net core which is .net core
 ## link
 [.net 8.0.1](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)\
 [visual studio](https://visualstudio.microsoft.com/downloads/)\
-[visual studio miror](https://downloadly.ir/software/programming/build-tools-for-visual-studio/)
-
+[visual studio miror](https://soft98.ir/263-Visual-Studio.html)\
+if you want to upgrade it by new version first make uninstall
+ [Visual Studio Uninstaller](https://p30download.ir/fa/entry/70750/visual-studio-uninstaller)
 # course overview
 ![course](img/courseOverview.png)
+---
+# create project and connect repository of github \
+ ![setup](img/setup.png)
+ ![setup](img/setup2.png)
+ ![setup](img/setup3.png)
+ ![setup](img/setup4.png)
+ ![setup](img/setup5.png)
+ ![setup](img/setup6.png)
+ ![setup](img/setup7.png)\
+ ## then open browser \
+ ![run](img/https.png) \
+ [Patch solution](https/readme.md) if you encounter an issue that is not secure
