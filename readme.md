@@ -16,3 +16,9 @@ done
 |<kbd>Ctrl</kbd>+<kbd>]</kbd> and <kbd>Ctrl</kbd>+<kbd>[</kbd>|adjust indent| 
 |<kbd>Alt</kbd>+<kbd>z</kbd>|break long line| 
 
+
+
+ 
+#  Pascal Case
+ 
+ 

@@ -9,4 +9,3 @@
 ![httpsfic](../img/httpsfix9.png)
 ![httpsfic](../img/httpsfix10.png)
 ![httpsfic](../img/httpsfix11.png)
-![httpsfic](../img/httpsfix12.png)
