@@ -154,7 +154,7 @@ model view controller\
 # Route
 ![route](img/route1-1.png)\
 that model is not always needed\
-![mvc](img/mvc2.png) پ
+![mvc](img/mvc2.png)  
 ## controller
 ```cs
 public IActionResult Index() //string Index() , object Index()
