@@ -10,11 +10,11 @@ done
  
 # ASP  `A`ctive `S`erver `P`ages
 ### IDE [`I`ntelligent `D`evelopment `E`nviroment] useful shortcut keyBoard
-|vscode|description| 
+|visual studio  |description| 
 |------------|-----------| 
-|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Arrow</kbd> key|copy line| 
-|<kbd>Ctrl</kbd>+<kbd>]</kbd> and <kbd>Ctrl</kbd>+<kbd>[</kbd>|adjust indent| 
-|<kbd>Alt</kbd>+<kbd>z</kbd>|break long line| 
+|<kbd>ctrl</kbd>+<kbd>d</kbd> |copy line| 
+|type `prop`+<kbd>Tab</kbd> |code snippet | 
+ 
 
 
 
