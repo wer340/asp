@@ -166,7 +166,7 @@ public IActionResult Index() //string Index() , object Index()
 ## why we have a return type of lets say an object or maybe a string or something like a list  or a enumerable .
 an action result is one of the custom classes or rather interface that is implemented in the .net framwork and that basically implments all of the possible result type for an action method so even if things are looking like its magic right now it is not 
 ## master page and child page 
-`_layout` is the master page of your complete application 
+`_layout` is the master page of your complete application \
 ![master](img/master.png)\
 
 `@RenderBody` is a built in helper in the MVC and that will display anything that we want in the body\
