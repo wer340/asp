@@ -13,7 +13,7 @@ done
 |visual studio  |description| 
 |------------|-----------| 
 |<kbd>ctrl</kbd>+<kbd>d</kbd> |copy line| 
-|type `prop`+<kbd>Tab</kbd> |code snippet | 
+ 
  
 
 
@@ -21,4 +21,17 @@ done
  
 #  Pascal Case
  
- 
+ ## snippet code  in visual studio 
+
+###  `prop`  make property
+```
+ public int MyProperty { get; set; }
+```
+
+###  `ctor`   make constructor
+```
+public ApplicationDbContext()
+{
+    
+}
+```
