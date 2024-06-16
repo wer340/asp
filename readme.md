@@ -6,6 +6,7 @@ for file in *.srt; do
     mv "$file" "$new_name"
 done
 ```
+```
 #!/bin/bash
 
 # ذخیره مسیر پوشه جاری
