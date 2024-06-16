@@ -6,7 +6,27 @@ for file in *.srt; do
     mv "$file" "$new_name"
 done
 ```
+#!/bin/bash
 
+# ذخیره مسیر پوشه جاری
+main_dir=$(pwd)
+
+# پیمایش در تمامی زیرپوشه‌های پوشه جاری
+for dir in */; do
+    # حرکت به داخل هر پوشه
+    cd "$dir" || continue
+
+    # اجرای دستورات مورد نظر در هر پوشه
+    for file in *.srt; do
+        new_name=$(echo "$file" | sed 's/_en//')
+        mv "$file" "$new_name"
+    done
+
+    # بازگشت به پوشه اصلی
+    cd "$main_dir" || exit
+done
+
+```
  
 # ASP  `A`ctive `S`erver `P`ages
 ### IDE [`I`ntelligent `D`evelopment `E`nviroment] useful shortcut keyBoard
